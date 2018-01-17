@@ -56,3 +56,12 @@ Provide a method that will be run every day at midnight for every user. It shoul
 2.  If a free user is under 3 actions refresh the number of actions to 3
 
 3.  Paid users reduce their days remaining count
+
+
+### Task-3
+
+Implement class TSStack with behavior of the stack data structure (LIFO) and provide a test suite that checks for the correctness of implemented methods.
+Proposed implementation should:
+* always return correct values or throw corresponding exceptions 
+* be able to work with different data types
+* could be used in a multi-threaded scenario 

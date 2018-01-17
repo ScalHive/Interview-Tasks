@@ -1,3 +1,6 @@
+All questions and discussion at  
+[![Join the chat at https://gitter.im/dataengi/crm-seed](https://badges.gitter.im/dataengi/crm-seed.svg)](https://gitter.im/ScalHive/Java_Scala_Task?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ## Introduction
 
 1. These tasks could be written on your choose on Java or Scala in object-oriented or functional style.

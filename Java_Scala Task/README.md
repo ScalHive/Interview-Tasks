@@ -2,7 +2,7 @@
 
 1. These tasks could be written on your choose on Java or Scala in object-oriented or functional style.
 
-2. Use your personal GitHub account to fork project and push your solution to it.
+2. Use your personal GitHub account to fork project and push your solution to it (current subdirectory).
 
 3. Send link to your fork project with solution.
 

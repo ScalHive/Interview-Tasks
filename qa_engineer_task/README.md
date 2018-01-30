@@ -19,14 +19,12 @@ All questions and discussion at
 
 
 
-
 ### Task-1
 
 1. There is a sample project https://github.com/dataengi/crm-seed with documentation and ready to deploy using docker. Try
 run it using "Try in PWD" in cloud or locally according to instruction "Running in presentation mode".
 2. Read project general documentation https://github.com/dataengi/crm-seed/wiki
 3. Login on web interface with default credentials
-
 
 
 ### Task-2
@@ -55,6 +53,14 @@ Add five new contacts from this table
 
 
 
+### Task-3
+1. Discover backend API for UI requests (https://github.com/dataengi/crm-seed)
+2. Discover Swagger implementation https://github.com/dataengi/crm-seed/blob/master/conf/routes. Try use it
+3. Verify Customer contacts management (Customer contacts managements) according
+[API Security Checklist](https://github.com/awesome-it-ternopil/API-Security-Checklist). Make report in SOLUTION.md
+and commit it.
+
 
 ## Recommended literature
 1. [OWASP Testing Guide v4 Table of Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+2. [API Security Checklist](https://github.com/awesome-it-ternopil/API-Security-Checklist)

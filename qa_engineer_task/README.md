@@ -23,7 +23,7 @@ All questions and discussion at
 ### Task-1
 
 1. There is a sample project https://github.com/dataengi/crm-seed with documentation and ready to deploy using docker. Try
-run it using "Try in PWD" in cloud or locally instruction "Running in presentation mode".
+run it using "Try in PWD" in cloud or locally according to instruction "Running in presentation mode".
 2. Read project general documentation https://github.com/dataengi/crm-seed/wiki
 3. Login on web interface with default credentials
 

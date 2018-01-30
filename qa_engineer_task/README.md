@@ -43,30 +43,42 @@ https://github.com/dataengi/crm-seed-ui/issues/6
 
 To verify:
 Add five new contacts from this table
-id
-	Name
-	Company
-	Email
-	Phone
-	Zip code
-	Skype
-	Language
-	1
-	Danell
-	Haynes
-	danellhaynes26@outlook.com
-	2000236381
+
+
+| id | Name          | Company  | Email                       |  Phone     | Zip code  | Skype  | Language |
+| ---|:-------------:| --------:|----------------------------:|-----------:|----------:|-------:|---------:|
+|  1 | Danell        | Haynes   | danellhaynes26@outlook.com  | 2000236381 |           |        |          |
+|  2 | Carlyn        |          | carlyn.pibworth49@gmail.com |            |           |        |          |
+|  3 | Bibbie        | Glascott | bibbie_glascott6@yahoo.com  | 1704602655 | 78963     |        | French   |
+|  4 | Nino          |          | nino_kemston@aol.com        | 2039333333 | 45632     |        |          |
+|  5 | Alexandre     | Attryde  | alexandre.attryde@gmail.com | 8999987875 | 78952     |        | Polish   |
 
 
 
 
 
 
-	2
-	Carlyn
 
 
-	carlyn.pibworth49@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	9118319805
 
 

@@ -4,7 +4,7 @@ All questions and discussion at
 
 ## Introduction
 
-1. These tasks could be written on your choose on English (preferred) or Ukrainian language.
+1. These tasks could be written on your choose in English (preferred) or Ukrainian language.
 2. Use your personal GitHub account to fork this project and push your solution to it (current subdirectory).
 3. Send link to your fork project with solution.
 4. Task 1 and Task 2 are students practice or trainee level.

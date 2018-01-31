@@ -22,7 +22,7 @@ All questions and discussion at
 
 ### Task-1
 
-List of need use tools:
+List of used tools:
 - VirtualBox
 - Vagrant
 - Centos7.4
@@ -32,13 +32,13 @@ List of need use tools:
 - Web browser
 
 What should you do:
-- Make VM using Vagrant (v2.0.1) configuration file should be in root directory (OS: CentOS 7.4)
-- Install required tools and docker (v17.09.1-ce) in VM
-- Fork git repo https://github.com/dataengi/crm-seed and clone one to VM
-- Discover project structure https://github.com/dataengi/crm-seed/wiki
-- Deploy project in presentation mode (docker-compose.yml)
-- Push your result to your fork of https://github.com/dataengi/crm-seed
-- Add link to your fork in SOLUTION.md
+1. Make VM using Vagrant (v2.0.1) configuration file should be in root directory (OS: CentOS 7.4)
+2. Install required tools and docker (v17.09.1-ce) in VM
+3. Fork git repo https://github.com/dataengi/crm-seed and clone one to VM
+4. Discover project structure https://github.com/dataengi/crm-seed/wiki
+5. Deploy project in presentation mode (docker-compose.yml)
+6. Push your result to your fork of https://github.com/dataengi/crm-seed
+7. Add link to your fork in SOLUTION.md
 
 To discuss:
 - VM hardware limits
@@ -48,7 +48,7 @@ To discuss:
 
 ### Task-2
 What should you do:
-- Automate task 1
+- Automate Task-1 from step 2 (Install required tools and docker (v17.09.1-ce) in VM)
 - Create deployment play-books for installation required tools and applications
 that needed for running CRM server in Docker. Use ansible (v2.4.2.0).
 - As result, your virtual machine will run as CRM server.

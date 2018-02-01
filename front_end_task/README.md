@@ -64,6 +64,14 @@ Ensure that the elements work and display correctly in the following browsers:
 3. Add basic routing – make browser's back button work properly; open overlay based on URL.
 
 
+### Task-3
+#### Requirements
+1. Fork project https://github.com/dataengi/crm-seed-ui and clone it locally
+2. Fix one of issues https://github.com/dataengi/crm-seed-ui/issues
+3. Add link to your fork in SOLUTION.md file of main project and explanation of your fix.
+4. Make pull request on main project
+
+
 
 ## Coding Standards
 When working on the project use consistent coding style. Try to follow what's already defined in Chisel (EditorConfig, stylelint, ESLint). You can also check guidelines like [Code Guide](http://codeguide.co/) or [CSS Guidelines](http://cssguidelin.es/).

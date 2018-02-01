@@ -24,7 +24,7 @@ All questions and discussion at
 #### Project brief
 Convert the following designs to HTML/CSS/JS.
 
-###@ Thumbnails
+#### Thumbnails
 ![Xfive Front-end Test Thumbnails](xfive-front-end-test-thumbs.jpg)
 
 #### Overlay

@@ -65,11 +65,24 @@ Ensure that the elements work and display correctly in the following browsers:
 
 
 ### Task-3
+#### Task description
+1) Display a domino tile and populate it with random values for its top and bottom faces.
+2) Button "Rotate left" and "Rotate right" must rotate a tile to left of right.
+3) Two controls are responsible for "Rotating speed" and "Domino size". Setting any of them will immediately provoke a change on UI.
+4) Every time button "Reset" is clicked, domino tile must be set with new combination of random values, size and speed values must be set to initial values.
+5) (Optional) Realize possibility to select (by clicking on) any single face and set its value selecting it from "Domino type" control. 
+
+#### Mockup
+![domino-mockup](mockup-domino.png)
+
 #### Requirements
-1. Fork project https://github.com/dataengi/crm-seed-ui and clone it locally
-2. Fix one of issues https://github.com/dataengi/crm-seed-ui/issues
-3. Add link to your fork in SOLUTION.md file of main project and explanation of your fix.
-4. Make pull request on main project
+
+1) HTML, CSS, Javascript
+
+#### Will be a plus
+
+1) Using Less/Sass
+2) Using ES6 or Typescript
 
 
 

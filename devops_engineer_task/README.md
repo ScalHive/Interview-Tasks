@@ -57,9 +57,11 @@ All ansible code should be in subdirectory ./ansible of project
 
 ### Task-3
 What should you do:
-- Install and configure [Ansible AWX](https://github.com/ansible/awx)
+- Install and configure [Ansible AWX](https://github.com/ansible/awx) 
 - Configure AWX to be able to run created on Task-2 yours ansible playbooks from AWX Web interface.
 - All steps of configuration must be documented in your project.
+- Add all used automated deploy scripts in this folder, 
+so we could reproduce your solution according to SOLUTION.md instructons. 
 
 ## Recommended literature
 1. https://devopsbootcamp.osuosl.org/

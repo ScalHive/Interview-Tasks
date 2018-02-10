@@ -70,3 +70,4 @@ so we could reproduce your solution according to SOLUTION.md instructons.
 4. https://docs.docker.com/engine/installation/linux/docker-ce/centos/#upgrade-docker-ce-1
 5. https://portainer.io/
 6. http://docs.ansible.com/ansible/latest/playbooks_best_practices.html#directory-layout
+7. [GitLab University](https://docs.gitlab.com/ee/university/)

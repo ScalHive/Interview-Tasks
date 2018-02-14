@@ -54,8 +54,9 @@ Add five new contacts from this table
 
 
 ### Task-3
-1. Discover backend API for UI requests (https://github.com/dataengi/crm-seed) and save the result of testing as a project on the own repository.
-2. Discover Swagger implementation https://github.com/dataengi/crm-seed/blob/master/conf/routes. Try use it
+
+1. Discover backend API for UI requests (https://github.com/dataengi/crm-seed) and save the result of testing as a project on the own repository. Create bug reports if they are.
+2. Discover Swagger implementation https://github.com/dataengi/crm-seed/blob/master/conf/routes. Try to execute API requests or create bug reports if they are.   
 3. Verify Customer contacts management (Customer contacts managements) according
 [API Security Checklist](https://github.com/awesome-it-ternopil/API-Security-Checklist). Make report in SOLUTION.md
 and commit it.

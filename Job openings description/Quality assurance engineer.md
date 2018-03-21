@@ -1,5 +1,4 @@
 ## What will you do:
-
 - Define and maintain test plans and test specifications for functional, integration and performance testing
 - Execution of test cases and reporting of product defects
 - Work closely with developer teams and other IT professionals to analyze and resolve product defects
@@ -8,7 +7,6 @@
 
 
 ## Requirements:
-
 - An understanding of software QA methodologies, tools, metrics and processes
 - Knowledge of SDLC, STLC
 - Perform functional, regression, UI, smoke, API, ad-hoc testing and other
@@ -18,14 +16,12 @@
 
 
 ## Nice to have:
-
 - Experience in Agile/Scrum development environment
 - Understanding of network protocols
 - Experience in technologies (HTML, CSS, SQL, Git) level of English — intermediate
 
 
 ## We are working with projects, where we use:
-
 - FinTech
 - BigData (using Hadoop framework)
 - Digital Marketing

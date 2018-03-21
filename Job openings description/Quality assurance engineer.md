@@ -27,7 +27,7 @@
 ## We are working with projects, where we use:
 
 - FinTech
-- BigData (Hadoop)
+- BigData (using Hadoop framework)
 - Digital Marketing
 
 

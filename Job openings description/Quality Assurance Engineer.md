@@ -24,7 +24,7 @@
 - Experience in technologies (HTML, CSS, SQL, Git) level of English — intermediate
 
 
-## We are working with projects, where we use:
+## Expertise and priority verticals are:
 - FinTech
 - BigData (using Hadoop framework)
 - Digital Marketing

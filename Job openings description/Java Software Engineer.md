@@ -22,7 +22,7 @@
 - Ability to travel for short term engagements on-site with clients
 
 
-## We are working with projects, where we use:
+## Expertise and priority verticals are:
 - FinTech
 - BigData (using Hadoop framework)
 - Digital Marketing

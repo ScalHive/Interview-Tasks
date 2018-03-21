@@ -1,7 +1,7 @@
 # Java Software Engineer
 
 ## What will you do
-- Conduct reviews and verification of business and software requirements
+- Conduct review and verification of business and software requirements
 - Working on all phases of SDLC implementations including analysis, design, development, testing, maintenance
 - Prepare and develop high-quality system solutions
 - Be involved in a lively and challenging environment

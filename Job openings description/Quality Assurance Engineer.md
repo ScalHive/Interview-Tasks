@@ -1,6 +1,7 @@
 # Quality Assurance Engineer
 
 ## What will you do:
+- Design, review and verification of business and software requirements
 - Define and maintain test plans and test specifications for functional, integration and performance testing
 - Execution of test cases and reporting of product defects
 - Work closely with developer teams and other IT professionals to analyze and resolve product defects

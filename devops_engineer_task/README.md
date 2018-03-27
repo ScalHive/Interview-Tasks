@@ -37,8 +37,8 @@ What should you do:
 3. Fork git repo https://github.com/dataengi/crm-seed and clone one to VM
 4. Discover project structure https://github.com/dataengi/crm-seed/wiki
 5. Deploy project in presentation mode (docker-compose.yml)
-6. Push your result to your fork of https://github.com/dataengi/crm-seed
-7. Add link to your fork in SOLUTION.md
+6. Push your result to your main task project
+7. Add link to your https://github.com/dataengi/crm-seed fork  in SOLUTION.md
 
 To discuss:
 - VM hardware limits

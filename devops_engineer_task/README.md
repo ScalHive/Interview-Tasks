@@ -55,6 +55,14 @@ that needed for running CRM server in Docker. Use ansible (v2.4.2.0).
 All ansible code should be in subdirectory ./ansible of project
 
 
+### Task-3
+What should you do:
+- Install and configure [Ansible AWX](https://github.com/ansible/awx) 
+- Configure AWX to be able to run created on Task-2 yours ansible playbooks from AWX Web interface.
+- All steps of configuration must be documented in your project.
+- Add all used automated deploy scripts in this folder, 
+so we could reproduce your solution according to SOLUTION.md instructions. 
+
 ## Recommended literature
 1. https://devopsbootcamp.osuosl.org/
 2. https://www.vagrantup.com/downloads.html
@@ -62,3 +70,4 @@ All ansible code should be in subdirectory ./ansible of project
 4. https://docs.docker.com/engine/installation/linux/docker-ce/centos/#upgrade-docker-ce-1
 5. https://portainer.io/
 6. http://docs.ansible.com/ansible/latest/playbooks_best_practices.html#directory-layout
+7. [GitLab University](https://docs.gitlab.com/ee/university/)

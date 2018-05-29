@@ -1,5 +1,8 @@
-# Interview-Tasks
-For job offer candidates and students practice or trainee level
+# Job positions descriptions and  Interview Challenges
+- [Trainee level](Trainee_level_positions/README.md)
+- [Junior level](Junior_level_positions/README.md)
+- [Middle level](Middle_level_positions/README.md)
+
 ## Recomendations
  - check [Git best practice](https://github.com/awesome-it-ternopil/best-practices/wiki/Git-best-practice)
  

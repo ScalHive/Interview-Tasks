@@ -1,1 +1,0 @@
-## Ideal Trainee candidate profile

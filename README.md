@@ -1,7 +1,7 @@
 # Job positions descriptions and  Interview Challenges
-- [Trainee level](Trainee_level_positions/README.md)
-- [Junior level](Junior_level_positions/README.md)
-- [Middle level](Middle_level_positions/README.md)
+- [Trainee level](Trainee_level_positions)
+- [Junior level](Junior_level_positions)
+- [Middle level](Middle_level_positions)
 
 ## Recomendations
  - check [Git best practice](https://github.com/awesome-it-ternopil/best-practices/wiki/Git-best-practice)

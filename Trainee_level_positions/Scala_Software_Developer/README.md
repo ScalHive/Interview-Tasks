@@ -1,26 +1,40 @@
 # Scala Software Engineer
 
 ## What will you do:
-- Solve complex problems using the most appropriate polyglot architecture
-- Ensure building and implementing of information and communication technologies applications.
-- Collaboratively works with customer support team to resolve or diagnose defects
-- Conduct review and verification of business and software requirements
-- Develop software and application to meet business requirements
-- Conduct automated testing on the software or application
-- Prepare and develop high-quality system solutions
+- Candidate will work in agile environment
+- Conduct automated testing of the software
+- Deliver high quality solutions in tight timeframes to meet demanding customer requirements
+- Work with the other IT units to gather and understand requirements
+- Contribute to a robust automated test suite to work in a continuous integration continuous deployment environment
+- Become involved in the internal DevOps and Scala guilds, building relationships with other developers and identifying implementing best practices
 
 
 ## Requirements:
-- An understanding of strongly-typed functional programming principles in Scala or Haskell
-- Demonstrable understanding of high-quality coding and testing practices
-- Building the project in SBT
+- Scala or Java from start up level
+- General programming knowledge
+
+
+## General skills set:
+- Version control systems (Git is mandatory one)
+- Understanding Algorithms and Data Structures
+- Understanding of OO programming concepts
+
 
 ## Nice to have:
-- Good knowledge of Play, Akka, SQL/NoSQL
-- Experience in working with databases in an  asynchronous environment
-- Experience in working with Spark and Kafka
-- Experience in GIT
-- Contributions to the technical community, either through blogs, internal workshops, meetups or conferences.
+- Understanding of Functional programming
+- Understanding the principles of the developing software in an Agile environment
+- Asynchronous programming experience (threads, Actors)
+- Knowledge about any framework (Akka, Play, etc)
+- Understanding of Docker and Virtualization 
+- Understanding of Big Data technology stack
+
+
+## Soft skills:
+- Strong problem solving skills & ability to learn in a fast paced environment
+- Interest in the latest programming trends such as functional and reactive programming
+- Strong work ethic
+- Communication skills
+
 
 
 ## Expertise and priority verticals are:

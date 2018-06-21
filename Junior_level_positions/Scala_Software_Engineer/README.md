@@ -1,48 +1,50 @@
 # Scala Software Engineer
 
 ## What will you do:
-- Ensure building and implementing of information and communication technologies applications. 
 - Candidate will work in agile environment
-- Conduct automated testing on the software or application
-- Building systems that can query large volumes of data
-- Conduct review and verification of business and software requirements
-- Develop software and application to meet business requirements
-- Prepare and develop high-quality system solutions
+- Conduct automated testing of the software
+- Deliver high quality solutions in tight timeframes to meet demanding customer requirements
 - Work closely with business and other IT units to gather and understand requirements
+- Contribute to software and architectural design decisions
 - Contribute to a robust automated test suite to work in a continuous integration continuous deployment environment
-- Become involved in the internal DevOps and Scala guilds, building relationships with other developers and identifying implementing - best practices
+- Become involved in the internal DevOps and Scala guilds, building relationships with other developers and identifying implementing best practices
+- Building systems that can query large volumes of data
+
 
 
 ## Requirements:
-- An understanding of strongly-typed functional programming principles in Scala or Haskell
-- Demonstrable understanding of high-quality coding and testing practices
-- Building the project in SBT
-- Experience in GIT
-- DB (SQL, NoSQL)
-- Intermediate/beginning level of English. Candidate should be able to read technical documentation
+- Scala 
+- Good skills in general programming knowledge
+- Version control systems (Git is mandatory one)
 
 
-## Nice to have:
-- Experience with Docker
-- Asynchronous programming experience (threads, Actors)
-- Experience with Play, Akka frameworks
-- Experience with RESTful services
-- Experience in Agile/Scrum methodologies of software development 
-- Experience with Slick framework
-- Experience with Kafka or another event streaming pipeline
-- Understanding of Big Data technology stack;
 
-
-## Soft skills
-- Experience building scalable, distributed applications in Scala and Java
+## General skills set:
 - Understanding Algorithms and Data Structures
 - Understanding of OO programming concepts
 - Understanding of Functional programming
 - Experience in developing software in an Agile environment
-- Interest in the latest programming trends such as functional and reactive programming
 - Knowledge of relational and non-relational database systems
-- Experience in Implementation of APIs for integration with internal and external systems
+
+
+
+## Nice to have:
+- Asynchronous programming experience (threads, Actors)
+- Experience with Akka framework
+- Experience with the Play Framework 
+- Experience with RESTful services
+- Experience with Slick framework
+- Experience with Kafka or another event streaming pipeline
+- Experience with Docker
+- Understanding of Big Data technology stack
+- Experience in Agile/Scrum methodologies of software development 
+
+
+## Soft skills
 - Strong problem solving skills & ability to learn in a fast paced environment
+- Interest in the latest programming trends such as functional and reactive programming
+- Strong work ethic
+- Communication skills
 
 
 ## Expertise and priority verticals are:

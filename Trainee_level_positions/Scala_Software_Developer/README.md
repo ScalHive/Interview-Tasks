@@ -38,9 +38,9 @@
 
 
 ## Expertise and priority verticals are:
-- FinTech
-- BigData (using Hadoop framework)
-- Digital Marketing
+- General programming
+- Backend systems
+- Distributed systems
 
 
 ## We offer:

@@ -1,4 +1,4 @@
-# Scala Software Engineer
+# Trainee Scala Software Engineer
 
 ## What will you do:
 - Candidate will work in agile environment

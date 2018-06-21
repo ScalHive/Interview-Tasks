@@ -45,9 +45,9 @@
 
 ## We offer:
 - Flexible working schedule
-- Stable salary and social guarantees
-- English course
-- Compensation of sports activities, certification, conferences and seminars
+- Paid internship
+- Workplace in comfortable office
+- Tea, coffee and cookies
 
 
 ## Test challenge:

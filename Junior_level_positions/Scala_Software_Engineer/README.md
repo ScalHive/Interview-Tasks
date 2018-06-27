@@ -30,6 +30,7 @@
 
 ## Nice to have:
 - Asynchronous programming experience (threads, Actors)
+- Understanding of RESTful services
 - Experience with Akka framework
 - Experience with the Play Framework 
 - Experience with RESTful services
@@ -54,7 +55,6 @@
 
 
 ## We offer:
-- Flexible working schedule
 - Stable salary and social guarantees
 - Annual paid vacation of 24 days and 7 days sick leave
 - Comfortable and fully equipped workplace (a double monitor pc)

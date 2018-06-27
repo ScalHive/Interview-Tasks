@@ -1,11 +1,12 @@
 # Middle Scala Software Engineer
 
 ## What will you do:
-- Candidate will work in agile environment. 
+- Candidate will work in agile environment
+- Contribute to software and architectural design decisions 
 - Conduct automated testing of the software
+- Contribute to Open Source projects, blogs etc.
 - Deliver high quality solutions in tight timeframes to meet demanding customer requirements
 - Work closely with business and other IT units to gather and understand requirements
-- Contribute to software and architectural design decisions
 - Contribute to a robust automated test suite to work in a continuous integration continuous deployment environment
 - Become involved in the internal DevOps and Scala guilds, building relationships with other developers and identifying implementing best practices
 - Building systems that can query large volumes of data
@@ -17,12 +18,12 @@
 - Asynchronous programming experience (threads, Actors)
 - Version control systems (Git is mandatory one)
 - Understanding Algorithms and Data Structures
-- Understanding of OO programming concepts
-- Understanding of Functional programming
+- Expertise in OO programming concepts
+- Expertise in Functional programming
 - Experience in developing software in an Agile environment
 - Knowledge of relational and non-relational database systems
-- Experience with Docker
-- Experience with RESTful services
+- Experience with Docker, Kubernetes
+- Experience with RESTful services design
 
 
 ## Nice to have:

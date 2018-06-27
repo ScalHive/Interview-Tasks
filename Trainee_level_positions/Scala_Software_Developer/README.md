@@ -22,6 +22,7 @@
 
 ## Nice to have:
 - Understanding of Functional programming
+- Understanding of RESTful services
 - Understanding the principles of the developing software in an Agile environment
 - Asynchronous programming experience (threads, Actors)
 - Knowledge about any framework (Akka, Play, etc)
@@ -44,7 +45,6 @@
 
 
 ## We offer:
-- Flexible working schedule
 - Paid internship
 - Workplace in comfortable office
 - Tea, coffee and cookies

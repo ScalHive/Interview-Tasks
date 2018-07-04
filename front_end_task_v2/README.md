@@ -1,7 +1,6 @@
 All questions and discussion at
 
-[![Join the chat at https://gitter.im/ScalHive/Interview-Tasks](https://badges.gitter.im/ScalHive/Interview-Tasks.svg)]
-(https://gitter.im/ScalHive/front_end_task?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Join the chat at https://gitter.im/ScalHive/Interview-Tasks](https://badges.gitter.im/ScalHive/Interview-Tasks.svg)](https://gitter.im/ScalHive/front_end_task?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 ## Introduction
 

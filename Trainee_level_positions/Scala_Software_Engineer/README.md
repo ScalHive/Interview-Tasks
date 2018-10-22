@@ -1,23 +1,34 @@
 # Trainee Scala Software Engineer
 
+Our data platform's purpose is to improve consumer experience and communications activity performance, to mitigate risk, drive product innovation and achieve operational excellence. You will contribute to the implementation and operation of the platform from data collection through storage and on to processing.
+We seek individual excellence within collaborative teams.
+Culture is very important at Iterable, and we value working alongside driven people who share our values of:
+
+- Trust
+- Balance
+- Growth Mindset
+
+We’re happy to elaborate on what these mean to us, and how these values might help foster your growth;personally and professionally.
+
 ## What will you do:
-- Candidate will work in agile environment
+- Candidate will work in agile environment with experienced engineers
 - Conduct automated testing of the software
-- Deliver high quality solutions in tight timeframes to meet demanding customer requirements
+- Deliver high quality solutions to meet demanding customer requirements
 - Work with the other IT units to gather and understand requirements
 - Contribute to a robust automated test suite to work in a continuous integration continuous deployment environment
 - Become involved in the internal DevOps and Scala guilds, building relationships with other developers and identifying implementing best practices
 
 
 ## Requirements:
-- Scala or Java from start up level
+- Scala or Java associate level
 - General programming knowledge
 
 
 ## General skills set:
-- Version control systems (Git is mandatory one)
 - Understanding Algorithms and Data Structures
 - Understanding of OO programming concepts
+- Version control systems (Git is mandatory one)
+- Beginning/intermediate level of English
 
 
 ## Nice to have:
@@ -38,19 +49,23 @@
 
 
 
-## Expertise and priority verticals are:
-- General programming
-- Backend systems
-- Distributed systems
-
-
-## We offer:
+## Benefits:
 - Paid internship
+- A high spec PC with 2 displays
+- Flexible office hours
 - Workplace in comfortable office
-- Tea, coffee and cookies
+- Fruits, tea, coffee and cookies
 
 
+### What is the hiring process?
+We believe that diverse teams build better products and strive to offer equal opportunity to all applicants. If your application is successful you will move through short phases:
 
-If you’re interested in our opportunity, feel free to send your resume to
-cv@scalhive.com
+- We'll check your CV meets the requirements for the role, which are detailed above.
+- We'll arrange a 20-minute phone interview with you to talk about you and the role and gauge the relevance of your experience.
+- We'll propose you short technical challenge (homework for 1-2 hours, deadline 1 week)
+- We'll invite you to our office to meet our team and discuss your solution for challenge
+
+### Any questions?
+If you have any queries whatsoever, there's an email box cv@scalhive.com where you can let us know.
+Unfortunately, only applicants who have the right to work in the Ukraine will be considered.
 

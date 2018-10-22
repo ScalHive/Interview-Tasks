@@ -30,10 +30,6 @@ We’re happy to elaborate on what these mean to us, and how these values might 
 - noSQL DB knowledge (Cassandra, Aerospike, Elasticsearch)
 
 
-## Expertise and priority verticals are:
-- FinTech
-- BigData (using Hadoop framework)
-- Digital Marketing
 
 ## Technological stack of software solutions
 - Angular 4

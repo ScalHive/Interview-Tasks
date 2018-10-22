@@ -16,6 +16,7 @@ All questions and discussion at
 ## The priorities for solutions are:
   1) being correct
   2) being readable and extensible
+  3) user gitHub tools for issue management [check examples](https://github.com/dataengi/crm-seed-ui/issues) 
 
 
 

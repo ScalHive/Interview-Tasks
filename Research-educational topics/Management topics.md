@@ -1,7 +1,0 @@
-## Associate
-
-## Basic
-
-## Professional
-
-## Expert

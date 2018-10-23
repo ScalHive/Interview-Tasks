@@ -10,7 +10,7 @@
     - [Front-end web Engineer](Junior_level_positions/Front-end_web_Engineer)
     - [Scala Software Engineer](Junior_level_positions/Scala_Software_Engineer)
     - [DevSecOps Advocate](Junior_level_positions/DevSecOps_Advocate)
-- [Middle level](Middle_level_positions) ( at least 2-5 years commerce experience required)
+- [Middle level](Middle_level_positions) ( at least 2 years commerce experience required)
     - [Quality Assurance Engineer](Middle_level_positions/Quality_Assurance_Engineer)
     - [Front-end web Engineer](Middle_level_positions/Front-end_web_Engineer)
     - [Scala Software Engineer](Middle_level_positions/Scala_Software_Engineer)

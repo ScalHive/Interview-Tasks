@@ -1,13 +1,31 @@
 ## Associate
 
-- Collections and Functional Programming Basics
-- Inheritance and Traits
-- Pattern Matching
-- Dealing with Optional Values
+- Functional Programming fundamentals
+- OOP and OOD principals
+- Design patterns
+
+- Scala:
+    - Type system
+    - Collections
+    - Implicits
+    - Futures and Promises
+    - sbt basics
+    - Pattern Matching
+    - Options and Eithers
+
+- Docker containers managment
+- DB SQL and NoSQL data modeling and quering
+- Big Data processing principals
+
 - Transition from DevOps to DevSecOps culture
 - Continus Integration/Delivery/Monitoring concepts
 
 ## Basic
+- Streaming data processing
+- Cloud platforms and services (Google, AWS etc), PaaS, SaaS, IaaS
+- ORM systems comparison
+- Message brokers
+- Scala JS
 - Domain-Driven Design
 - Scalability, Resilience, Consistency models
 - Delivery guarantees

@@ -1,0 +1,112 @@
+Task-1
+
+I have run project https://github.com/dataengi/crm-seed using "Try in PWD" in cloud.
+I have read project general documentation https://github.com/dataengi/crm-seed/wiki
+I have logged in on web interface with default credentials
+
+Task-2
+
+I have discovered front-end project https://github.com/dataengi/crm-seed-ui and documentation for it  https://github.com/dataengi/crm-seed-ui/wiki/Customer%20contacts
+
+1.	User story for Customer contact add
+
+Main goal CRM: to manage and analyze customer interactions and data throughout the customer lifecycle, with the goal of improving business relationships with customers, assisting in customer retention and driving sales growth.
+
+as a user I can create Customers database 
+as a user I can create a CONTACT with detail information about my customers
+•	there is possibility to add customer’s emails, phones as much as I need
+•	there possibility to edit CONTACT 
+•	there is possibility to delete CONTACT
+as a user I can filter CONTACTS by Id, Name, Company, Phone, Email
+as a user I can sort CONTACTS  by Id, Name, Company
+as a user I can search a CONTACT  by Id, Name, Company, Email
+as a user I can group created CONTACTS
+•	there is possibility to add each contact to one or more groups
+•	there is possibility to delete contact from a Group
+•	there possibility to edit Groups
+•	there is possibility to delete Groups
+as a administrator I can invite / cancel invitation of new users with different roles (deploying representative, root, manager, invoicing representative, company manager, sales  representative, testing representative)
+as a administrator I can see invitation statuses (Waiting, Registered,  Expired)
+as a administrator I can activate / deactivate users
+as a administrator I can view Contact book of each Company’s member
+as a administrator I can manage own CONTACTS
+
+2.	 Use cases for Customer contact add
+
+As sales representative user can manage Contacts with detailed information  such as emails, phones, company, position in company, language, address. 
+Also user can group Contacts by divisions, sales offices, product groups, by interest, quantities of purchases, regions etc. with possibility to create own Groups and to add Contacts to one or more groups and remove them from its.
+
+As company manager user can manage own Contact book, create Contact books of partners, suppliers, sales  representative, end customers,  and share it between  other departments. Also  user can group Contacts by divisions, sales offices, product groups, regions etc. with possibility to create own Groups and to add Contacts to one or more groups
+As company manager user can invite other users in different roles by sending invitation email.
+
+3.	Requirements for Customer contact add 
+
+Required fields: Name, email, phone
+There is possibility to add email with one of the types 
+There is possibility to add phone with one of the types 
+
+Bug report according to above restrictions according to example: https://github.com/dataengi/crm-seed-ui/issues/6
+
+1. There is no possibility to sort by "Email" fld. 
+expected behavior
+There should be a possibility to sort by "Email" fld.
+actual behavior
+There is no possibility to sort by "Email" fld.
+Sorting works only by "Id", "Name", "Company" fld.
+steps to reproduce
+Go to Contacts > 
+Try to sort Contacts by clicking on "Email" in the table header
+ 
+2. There is no warning message for invalid Address fields
+expected behavior
+Invalid fields should be highlighted
+actual behavior
+There is no warning for invalid Address fields: “Street”, “City”, “State” 
+"Submit" btn. is inactive
+steps to reproduce
+Fill in required fields >
+Fill in "Street", "City" "State" with more than 50 characters (>50) >
+"Submit" btn. is inactive
+There is no warning for invalid "Street", "City" "State" fields
+ 
+3. Server error while creating Contact with only Space in “Name” fld.
+expected behavior
+Should clear Spaces before and after the text in the input fields
+actual behavior
+Server error while creating Contact with only Space in "Name" fld.
+steps to reproduce
+Fill in "Name" fld. with Spaces >
+Fill in the rest of the required fields >
+Click on "Submit" btn.
+ 
+4. Not all required fields are highlighted
+expected behavior
+All required fields are highlighted
+actual behavior
+“Email”, “Phone” fld. are not highlighted
+Only "Name" fld. is highlighted
+steps to reproduce
+Go to Contacts > 
+Add Contact > 
+Try to submit new contact
+https://www.screencast.com/t/DtcF2ilt6N
+ 
+5. Deleted Group is displayed in "Groups" fld. of the Contact which was added to this group
+expected behavior
+Group is deleted from all Contacts which was added to this group after Group 's deleting
+actual behavior
+Deleted Group is displayed in "Groups" fld. of the Contact which was added to this group
+Precondition
+There is created Contact
+There is created Group
+Step to reproduce
+Add selected Contact to the Group >
+Go to the "Groups">
+Delete the Group > confirm deleting >
+Open the Contact
+Bug: Deleted Group is displayed in "Groups" fld.
+https://www.screencast.com/t/Thyzx4AaN1MJ
+
+Task-3
+
+I couldn’t run the project and discovered API

@@ -1,5 +1,3 @@
-# Ideal Trainee candidate profile
-
 
 ## Job Descriptions and Challenges
 - [Data Engineer](Data_Engineer)

@@ -1,4 +1,4 @@
-All questions and discussion in issues of this project.
+All questions and discussion should be handled the project issues with corresponding TAG.
 
 ## Introduction
 

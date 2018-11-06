@@ -1,4 +1,4 @@
-# Trainee Data Engineer
+# Junior Data Engineer
 
 Our data platform's purpose is to improve consumer experience and communications activity performance, to mitigate risk, drive product innovation and achieve operational excellence. You will contribute to the implementation and operation of the platform from data collection through storage and on to processing.
 We seek individual excellence within collaborative teams.

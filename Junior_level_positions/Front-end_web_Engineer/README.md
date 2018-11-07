@@ -19,12 +19,19 @@ We’re happy to elaborate on what these mean to us, and how these values might 
 ## Requirements:
 - Experience with Front End technologies and frameworks
 - Expert knowledge of browser technologies HTML, CSS, JavaScript
-- Experience in AngularJS, Angular 2
-- Knowledge of MVC, MVVM, MVP patterns
+- Experience in AngularJS, Angular 2 or React
 - Good understanding of asynchronous request handling, partial page updates and AJAX
+
+## General skills set: 
+- Knowledge of MVC, MVVM, MVP patterns
+- REST API Standards and best practices
+- SOAP API standards
+- UI automation testing
+- Understood DevOps in context of Security
 
 ## Nice to have:
 - Experience with preprocessors LESS/SASS will be a plus
+- GraphQL
 
 ## Soft skills:
 - Strong problem solving skills & ability to learn in a fast paced environment
@@ -33,11 +40,15 @@ We’re happy to elaborate on what these mean to us, and how these values might 
 - Communication skills
 
 ## Benefits:
-- Paid internship
-- A high spec PC with 2 displays
-- Flexible office hours
-- Workplace in comfortable office
-- Fruits, tea, coffee and cookies
+- Stable salary and social guarantees
+- Annual paid vacation of 24 days and 7 days sick leave
+- Comfortable and fully equipped workplace (a double monitor pc)
+- Free tea, coffee and cookies
+- Free parking space (auto and bicycle)
+- Professional and career development opportunities
+- Democratic management style
+- English course
+- Compensation of sports activities, certification, conferences and seminars
 
 
 ### What is the hiring process?

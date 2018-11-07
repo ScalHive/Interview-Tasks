@@ -41,11 +41,15 @@ We’re happy to elaborate on what these mean to us, and how these values might 
 - Communication skills
 
 ## Benefits:
-- Paid internship
-- A high spec PC with 2 displays
-- Flexible office hours
-- Workplace in comfortable office
-- Fruits, tea, coffee and cookies
+- Stable salary and social guarantees
+- Annual paid vacation of 24 days and 7 days sick leave
+- Comfortable and fully equipped workplace (a double monitor pc)
+- Free tea, coffee and cookies
+- Free parking space (auto and bicycle)
+- Professional and career development opportunities
+- Democratic management style
+- English course
+- Compensation of sports activities, certification, conferences and seminars
 
 
 ### What is the hiring process?

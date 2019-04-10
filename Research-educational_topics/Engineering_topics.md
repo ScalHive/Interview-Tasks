@@ -18,7 +18,7 @@
 - Big Data processing principals
 
 - Transition from DevOps to DevSecOps culture
-- Continus Integration/Delivery/Monitoring concepts
+- Continuous Integration/Delivery/Monitoring concepts
 
 ## Basic
 - Streaming data processing

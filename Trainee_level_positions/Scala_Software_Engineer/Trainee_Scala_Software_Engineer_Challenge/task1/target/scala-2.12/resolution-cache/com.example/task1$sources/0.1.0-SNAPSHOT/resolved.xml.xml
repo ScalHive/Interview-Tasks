@@ -4,7 +4,7 @@
 		module="task1$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20201006204942"
+		publication="20201007211455"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
